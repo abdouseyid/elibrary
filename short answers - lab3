@@ -1,0 +1,18 @@
+What is Spring?
+Spring is an open source framework that is secure, low-cost and flexible. Spring removes tedious configuration work so that developers can focus on writing business logic
+
+What is Spring Boot?
+It's a microservice based java web framework offered by Spring. Usefull wwhen developing web apps and microservices, because it automate configuration and provide production ready features.
+
+What is the relation between Spring platform and Spring Boot?
+The Spring Platform, is an umbrella term for all projects in the Spring ecosystem, including Spring Boot, Spring Framework, Spring Data, Spring Cloud, and others.
+
+What is the relation between Spring platform and Spring framework?
+The Spring Framework is the core of the Spring Platform and provides the fundamental features like Dependency Injection (DI) and Aspect-Oriented Programming (AOP). It's primary purpose is to simplify the development of Java applications.
+
+What is Dependency Injection and how is it done in the Spring platform/framework?
+Dependency Injection (DI) is a design pattern where an object's injected, rather than letting the object construct them itself.
+The DI can be achieved in few ways, like: XML configuration, Annotations and Constructor Injection, etc.
+
+What is Inversion of Control (IoC) and how is it related to Spring?
+Spring's IoC container manages the lifecycle and configuration of beans through Dependency Injection (DI), where dependencies are injected into objects rather than being created by them.
